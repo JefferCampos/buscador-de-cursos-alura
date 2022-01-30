@@ -6,7 +6,7 @@ use GuzzleHttp\ClientInterface;
 use Symfony\Component\DomCrawler\Crawler;
 
 class Buscador
-{   
+{
     private $httpClient;
 
     private $crawler;
