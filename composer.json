@@ -1,0 +1,17 @@
+{
+    "name": "jeffercampos/buscador-cursos-alura",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jefferson Campos",
+            "email": "jeffer-2000@hotmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "symfony/dom-crawler": "5.4.3",
+        "symfony/css-selector": "^5.4"
+    }
+}
